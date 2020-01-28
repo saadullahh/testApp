@@ -23,6 +23,7 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'pg', '~> 0.18.4'
 # pg gem
+#heroku gem
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
